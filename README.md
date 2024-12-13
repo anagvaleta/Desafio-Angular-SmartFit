@@ -1,4 +1,6 @@
-## Este repositório contém a solução para o desafio de Front-end da Smart Fit desenvolvido com auxilio do vídeo da Fernanda Kipper. Eu utilizei o framework Angular para desenvolver a aplicação.
+## Este repositório contém a solução para o Desafio de Front-end da Smart Fit 
+
+Resolvi o desenvolvimento do desafio com auxilio do vídeo da Fernanda Kipper. O framework utilizado para desenvolver a aplicação foi o Angular.
 
 ## 📖 Sobre o desafio
 
