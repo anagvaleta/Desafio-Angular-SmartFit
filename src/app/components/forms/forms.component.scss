@@ -1,0 +1,61 @@
+.form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 0 auto;
+
+    padding: 24px;
+    border: 2px solid var(--lighter-grey);
+    border-radius: 18px;
+
+    max-width: 80%;
+    width: 100%;
+    margin: 0 auto;
+
+    margin-top: 20px;
+}
+
+.form-group .form-icon {
+    font-size: 14px;
+    color: var(--light-grey);
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-group .form-icon img {
+    height: 30px;
+    width: 30px;
+}
+
+.form-group h3 {
+    font-size: 28px;
+    font-weight: 300;
+    color: var(--light-grey);
+    margin: 10px 0;
+}    
+
+/*arrumar as checkbox e colocar a borda em cima*/
+.form-group .radio-wrapper {
+    display: flex;
+    width: 100%;
+    border-top: 1px solid var(--lighter-grey);
+    padding: 8px 4px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+
+    color: var(--light-grey);
+}
+
+/*colocar o horário na direita*/
+.form-group .radio-wrapper span {
+    position: absolute;
+    right: 0;
+}
+
+.form-group .radio-wrapper checkbox-wrapper {
+    
+}
