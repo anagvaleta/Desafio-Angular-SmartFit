@@ -8,7 +8,7 @@ A Smart Fit, atuando no segmento de fitness, passou por várias mudanças durant
 Neste desafio, foi implementado as seguintes funcionalidades de acordo com as regras de negócio definidas:
 
 ### Funcionalidades
-[x] Carrega unidades através do arquivo JSON [locations.json](https://test-frontend-developer.s3.amazonaws.com/data/locations.json) utilizando o método `GET`.
+[x] Carrega unidades através do arquivo JSON [locations.json](https://test-frontend-developer.s3.amazonaws.com/data/locations.json) utilizando o método `GET`. <br>
 [x] Busca por todas as unidades.
 [x] Busca por unidades com filtros.
 [x] Previsão do número de resultados encontrados.
